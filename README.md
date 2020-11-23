@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on bootstrapped / bootstrapping companies
 - 📫 How to reach me: john@waysoftware.dev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcguin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcguin&hide=css)](https://github.com/anuraghazra/github-readme-stats)
