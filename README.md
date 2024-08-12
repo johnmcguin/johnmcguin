@@ -12,9 +12,6 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
 ![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=elixir&logoColor=#4B275F)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
-![Phoenix Framework](https://img.shields.io/badge/-PhoenixFramework-000000?style=flat&logo=phoenixframework&logoColor=#FD4F00)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=#4169E1)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=#003B57)
 
 </div>
 
@@ -48,6 +45,6 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
   
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=#844FBA)
 ![GitHub](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=#181717)
-![GitHub Actions](https://img.shields.io/badge/-Githubactions-000000?style=flat&logo=githubactions&logoColor=#2088FF)
+![GitHub Actions](https://img.shields.io/badge/-GithubActions-000000?style=flat&logo=githubactions&logoColor=#2088FF)
 
 </div>
