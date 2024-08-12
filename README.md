@@ -9,7 +9,7 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodejs&logoColor=#5FA04E)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
 ![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=elixir&logoColor=#4B275F)
 ![Phoenix Framework](https://img.shields.io/badge/-PhoenixFramework-000000?style=flat&logo=phoenixframework&logoColor=#FD4F00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=#4169E1)
