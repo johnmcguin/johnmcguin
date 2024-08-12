@@ -1,6 +1,6 @@
 ### Hi, I'm John McGuin
 
-I am product-minded Senior Software Engineer with 9+ years of experience leading teams to build delightful, maintainable web applications. Specializing in Node.js, React, Vue.js, Angular, Elixir (Phoenix), with a proven ability to deliver projects and products that delight end users and drive business growth. I am currently looking for my next opportunity and open to contract or full time employment.
+I am product-minded Senior Fullstack Engineer with 9+ years of experience, specializing in Node.js, React, Vue.js, Angular, Elixir (Phoenix). I am currently looking for my next opportunity and open to contract or full time employment.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcguin&hide=css&layout=compact&exclude_repo=exercism-challenges)](https://github.com/anuraghazra/github-readme-stats)
 
