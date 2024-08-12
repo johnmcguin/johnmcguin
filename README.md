@@ -1,4 +1,4 @@
-### Hi, I'm John McGuin
+/### Hi, I'm John McGuin
 
 I am product-minded Senior Software Engineer with 9+ years of experience leading teams to build delightful, maintainable web applications. Specializing in Node.js, React, Vue.js, Angular, Elixir (Phoenix), with a proven ability to deliver projects and products that delight end users and drive business growth. I am currently looking for my next opportunity and open to contract or full time employment.
 
@@ -12,6 +12,7 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
 ![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=elixir&logoColor=#4B275F)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
+![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=#1293D8)
 
 </div>
 
