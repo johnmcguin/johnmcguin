@@ -4,7 +4,7 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcguin&hide=css&layout=compact&exclude_repo=exercism-challenges)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tech
+### Langs
 <div class="badges-intro">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
@@ -15,6 +15,24 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 ![Phoenix Framework](https://img.shields.io/badge/-PhoenixFramework-000000?style=flat&logo=phoenixframework&logoColor=#FD4F00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=#4169E1)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=#003B57)
+
+</div>
+
+### Backend
+<div class="badges-intro">
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
+![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=elixir&logoColor=#4B275F)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
+![Phoenix Framework](https://img.shields.io/badge/-PhoenixFramework-000000?style=flat&logo=phoenixframework&logoColor=#FD4F00)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=#4169E1)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=#003B57)
+
+</div>
+
+### Frontend
+<div class="badges-intro">
+  
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs&logoColor=#F7DF1E)
@@ -22,5 +40,14 @@ I am product-minded Senior Software Engineer with 9+ years of experience leading
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=#CC6699)
+
+</div>
+
+### Tools
+<div class="badges-intro">
+  
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=#844FBA)
+![GitHub](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=#181717)
+![GitHub Actions](https://img.shields.io/badge/-Githubactions-000000?style=flat&logo=githubactions&logoColor=#2088FF)
 
 </div>
