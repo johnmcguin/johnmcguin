@@ -6,13 +6,13 @@ I am product-minded Senior Fullstack Engineer with 9+ years of experience, speci
 
 ### Langs
 <div class="badges-intro">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+  
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=elixir&logoColor=#4B275F)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=#1293D8)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
 </div>
 
@@ -33,10 +33,10 @@ I am product-minded Senior Fullstack Engineer with 9+ years of experience, speci
 
 ### Frontend
 <div class="badges-intro">
-  
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs&logoColor=#F7DF1E)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
 ![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=#1293D8)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
