@@ -4,7 +4,7 @@ I am product-minded Senior Fullstack Engineer with 9+ years of experience, speci
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcguin&hide=css&layout=compact&exclude_repo=exercism-challenges)](https://github.com/anuraghazra/github-readme-stats)
 
-### Langs
+### Languages
 <div class="badges-intro">
   
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#5FA04E)
